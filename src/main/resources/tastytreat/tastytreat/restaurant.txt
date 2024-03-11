@@ -1,0 +1,5 @@
+1,KFC,4.30,$$$,98531,Chicken,Fast Food,Family Meals
+2,IHOP,4.30,$$,77494,Breakfast and Brunch,Family Meals,Burgers
+3,Starbucks,4.90,$,99218,Coffee and Tea,Breakfast and Brunch,Bakery
+4,McDonalds,4.70,$,98346,Burgers,Fast Food,
+5,Apurbo's vater hotel,6.00,$$,2105057,lunch,bakery,sweetmeat
